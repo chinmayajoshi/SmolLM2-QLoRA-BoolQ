@@ -15,7 +15,9 @@
     },
     "accelerator": "GPU",
     "widgets": {
+      "state": {},
       "application/vnd.jupyter.widget-state+json": {
+        "state": {},
         "013852f5dac049bab814be04cf33deaf": {
           "model_module": "@jupyter-widgets/controls",
           "model_name": "HBoxModel",
